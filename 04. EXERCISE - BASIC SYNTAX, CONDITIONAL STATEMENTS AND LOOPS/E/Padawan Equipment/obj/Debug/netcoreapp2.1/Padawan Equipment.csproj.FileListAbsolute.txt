@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\bin\Debug\netcoreapp2.1\Padawan Equipment.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Padawan Equipment\obj\Debug\netcoreapp2.1\Padawan Equipment.pdb

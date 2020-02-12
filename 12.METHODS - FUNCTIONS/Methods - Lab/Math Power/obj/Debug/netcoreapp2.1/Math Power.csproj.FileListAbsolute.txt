@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\bin\Debug\netcoreapp2.1\Math Power.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\bin\Debug\netcoreapp2.1\Math Power.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\bin\Debug\netcoreapp2.1\Math Power.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\bin\Debug\netcoreapp2.1\Math Power.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math Power\obj\Debug\netcoreapp2.1\Math Power.pdb

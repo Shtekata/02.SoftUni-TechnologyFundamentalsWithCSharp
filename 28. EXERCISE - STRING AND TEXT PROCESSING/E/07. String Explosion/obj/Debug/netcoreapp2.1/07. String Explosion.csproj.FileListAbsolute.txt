@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\bin\Debug\netcoreapp2.1\07. String Explosion.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\07. String Explosion\obj\Debug\netcoreapp2.1\07. String Explosion.pdb

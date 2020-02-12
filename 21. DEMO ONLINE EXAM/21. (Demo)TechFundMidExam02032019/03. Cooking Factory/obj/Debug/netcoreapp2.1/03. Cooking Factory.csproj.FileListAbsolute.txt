@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.pdb

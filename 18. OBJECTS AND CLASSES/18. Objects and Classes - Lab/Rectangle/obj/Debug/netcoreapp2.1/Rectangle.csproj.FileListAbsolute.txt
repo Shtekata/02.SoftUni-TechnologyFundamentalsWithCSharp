@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\bin\Debug\netcoreapp2.1\Rectangle.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Rectangle\obj\Debug\netcoreapp2.1\Rectangle.pdb

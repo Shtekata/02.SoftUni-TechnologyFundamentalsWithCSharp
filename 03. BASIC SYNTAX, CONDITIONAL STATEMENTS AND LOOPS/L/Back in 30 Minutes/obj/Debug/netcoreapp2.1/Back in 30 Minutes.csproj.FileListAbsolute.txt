@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\bin\Debug\netcoreapp2.1\Back in 30 Minutes.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\bin\Debug\netcoreapp2.1\Back in 30 Minutes.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\bin\Debug\netcoreapp2.1\Back in 30 Minutes.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\bin\Debug\netcoreapp2.1\Back in 30 Minutes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\bin\Debug\netcoreapp2.1\Back in 30 Minutes.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Back in 30 Minutes\obj\Debug\netcoreapp2.1\Back in 30 Minutes.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb

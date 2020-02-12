@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\bin\Debug\netcoreapp2.1\Anonymous Threat.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\bin\Debug\netcoreapp2.1\Anonymous Threat.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\bin\Debug\netcoreapp2.1\Anonymous Threat.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\bin\Debug\netcoreapp2.1\Anonymous Threat.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\bin\Debug\netcoreapp2.1\Anonymous Threat.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\Anonymous Threat\obj\Debug\netcoreapp2.1\Anonymous Threat.pdb

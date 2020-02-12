@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.pdb

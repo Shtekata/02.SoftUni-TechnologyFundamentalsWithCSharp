@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\bin\Debug\netcoreapp2.1\03. Articles 2.0.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\03. Articles 2.0\obj\Debug\netcoreapp2.1\03. Articles 2.0.pdb

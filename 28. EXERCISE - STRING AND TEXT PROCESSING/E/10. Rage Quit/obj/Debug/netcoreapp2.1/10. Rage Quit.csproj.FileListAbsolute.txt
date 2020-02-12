@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\bin\Debug\netcoreapp2.1\10. Rage Quit.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\bin\Debug\netcoreapp2.1\10. Rage Quit.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\bin\Debug\netcoreapp2.1\10. Rage Quit.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\bin\Debug\netcoreapp2.1\10. Rage Quit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\bin\Debug\netcoreapp2.1\10. Rage Quit.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\10. Rage Quit\obj\Debug\netcoreapp2.1\10. Rage Quit.pdb

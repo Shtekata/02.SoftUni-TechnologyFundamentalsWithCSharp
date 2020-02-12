@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\bin\Debug\netcoreapp2.1\08.Condense Array to Number.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\bin\Debug\netcoreapp2.1\08.Condense Array to Number.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\bin\Debug\netcoreapp2.1\08.Condense Array to Number.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\bin\Debug\netcoreapp2.1\08.Condense Array to Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\bin\Debug\netcoreapp2.1\08.Condense Array to Number.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Condense Array to Number\obj\Debug\netcoreapp2.1\08.Condense Array to Number.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.pdb

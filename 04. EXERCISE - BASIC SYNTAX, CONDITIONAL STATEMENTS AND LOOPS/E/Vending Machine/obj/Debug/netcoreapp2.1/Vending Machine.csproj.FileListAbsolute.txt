@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.csprojAssemblyReference.cache

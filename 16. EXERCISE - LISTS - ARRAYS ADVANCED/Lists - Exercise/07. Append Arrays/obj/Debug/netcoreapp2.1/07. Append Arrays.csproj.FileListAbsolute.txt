@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays.pdb

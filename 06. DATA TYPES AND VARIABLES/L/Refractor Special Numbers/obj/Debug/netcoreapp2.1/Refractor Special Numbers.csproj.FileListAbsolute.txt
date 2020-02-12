@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\bin\Debug\netcoreapp2.1\Refractor Special Numbers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\bin\Debug\netcoreapp2.1\Refractor Special Numbers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\bin\Debug\netcoreapp2.1\Refractor Special Numbers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\bin\Debug\netcoreapp2.1\Refractor Special Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\bin\Debug\netcoreapp2.1\Refractor Special Numbers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\obj\Debug\netcoreapp2.1\Refractor Special Numbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\obj\Debug\netcoreapp2.1\Refractor Special Numbers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\obj\Debug\netcoreapp2.1\Refractor Special Numbers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\obj\Debug\netcoreapp2.1\Refractor Special Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Refractor Special Numbers\obj\Debug\netcoreapp2.1\Refractor Special Numbers.pdb

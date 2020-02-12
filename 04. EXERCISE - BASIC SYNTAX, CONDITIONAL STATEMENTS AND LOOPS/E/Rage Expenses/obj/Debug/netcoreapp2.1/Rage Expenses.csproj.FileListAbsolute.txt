@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\bin\Debug\netcoreapp2.1\Rage Expenses.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Rage Expenses\obj\Debug\netcoreapp2.1\Rage Expenses.pdb

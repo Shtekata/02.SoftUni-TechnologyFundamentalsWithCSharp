@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb

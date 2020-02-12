@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\bin\Debug\netcoreapp2.1\Town Info.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\bin\Debug\netcoreapp2.1\Town Info.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\bin\Debug\netcoreapp2.1\Town Info.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\bin\Debug\netcoreapp2.1\Town Info.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\bin\Debug\netcoreapp2.1\Town Info.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\obj\Debug\netcoreapp2.1\Town Info.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\obj\Debug\netcoreapp2.1\Town Info.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\obj\Debug\netcoreapp2.1\Town Info.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\obj\Debug\netcoreapp2.1\Town Info.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Town Info\obj\Debug\netcoreapp2.1\Town Info.pdb

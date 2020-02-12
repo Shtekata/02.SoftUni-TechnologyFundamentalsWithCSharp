@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\bin\Debug\netcoreapp2.1\Equal Arrays.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\9.ARRAYS\Arrays - Lab\Equal Arrays\obj\Debug\netcoreapp2.1\Equal Arrays.pdb

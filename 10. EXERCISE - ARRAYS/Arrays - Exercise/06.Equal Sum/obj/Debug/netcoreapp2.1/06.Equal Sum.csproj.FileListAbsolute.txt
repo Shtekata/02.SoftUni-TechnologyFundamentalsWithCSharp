@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\bin\Debug\netcoreapp2.1\06.Equal Sum.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\bin\Debug\netcoreapp2.1\06.Equal Sum.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\bin\Debug\netcoreapp2.1\06.Equal Sum.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\bin\Debug\netcoreapp2.1\06.Equal Sum.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\bin\Debug\netcoreapp2.1\06.Equal Sum.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\06.Equal Sum\obj\Debug\netcoreapp2.1\06.Equal Sum.pdb

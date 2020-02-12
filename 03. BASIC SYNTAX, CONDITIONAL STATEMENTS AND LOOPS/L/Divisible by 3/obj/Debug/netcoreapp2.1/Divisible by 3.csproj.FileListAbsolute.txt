@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\bin\Debug\netcoreapp2.1\Divisible by 3.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\bin\Debug\netcoreapp2.1\Divisible by 3.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\bin\Debug\netcoreapp2.1\Divisible by 3.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\bin\Debug\netcoreapp2.1\Divisible by 3.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\bin\Debug\netcoreapp2.1\Divisible by 3.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Divisible by 3\obj\Debug\netcoreapp2.1\Divisible by 3.pdb

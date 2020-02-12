@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\24. ASSOCIATIVE ARRAYS\24. ASSOCIATIVE ARRAYS\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.pdb

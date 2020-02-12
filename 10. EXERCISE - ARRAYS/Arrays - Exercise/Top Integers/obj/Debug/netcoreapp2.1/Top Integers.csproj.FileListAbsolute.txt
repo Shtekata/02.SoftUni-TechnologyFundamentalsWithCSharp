@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.pdb

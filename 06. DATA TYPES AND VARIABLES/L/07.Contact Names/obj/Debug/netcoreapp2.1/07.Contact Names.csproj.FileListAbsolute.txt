@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\bin\Debug\netcoreapp2.1\07.Contact Names.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\bin\Debug\netcoreapp2.1\07.Contact Names.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\bin\Debug\netcoreapp2.1\07.Contact Names.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\bin\Debug\netcoreapp2.1\07.Contact Names.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\bin\Debug\netcoreapp2.1\07.Contact Names.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\obj\Debug\netcoreapp2.1\07.Contact Names.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\obj\Debug\netcoreapp2.1\07.Contact Names.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\obj\Debug\netcoreapp2.1\07.Contact Names.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\obj\Debug\netcoreapp2.1\07.Contact Names.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\07.Contact Names\obj\Debug\netcoreapp2.1\07.Contact Names.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\bin\Debug\netcoreapp2.1\Even Number.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\bin\Debug\netcoreapp2.1\Even Number.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\bin\Debug\netcoreapp2.1\Even Number.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\bin\Debug\netcoreapp2.1\Even Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\bin\Debug\netcoreapp2.1\Even Number.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Even Number\obj\Debug\netcoreapp2.1\Even Number.csprojAssemblyReference.cache

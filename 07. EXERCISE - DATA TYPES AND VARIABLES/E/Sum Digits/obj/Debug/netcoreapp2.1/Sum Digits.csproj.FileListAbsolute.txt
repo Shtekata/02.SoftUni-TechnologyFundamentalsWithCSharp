@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\bin\Debug\netcoreapp2.1\Sum Digits.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum Digits\obj\Debug\netcoreapp2.1\Sum Digits.pdb

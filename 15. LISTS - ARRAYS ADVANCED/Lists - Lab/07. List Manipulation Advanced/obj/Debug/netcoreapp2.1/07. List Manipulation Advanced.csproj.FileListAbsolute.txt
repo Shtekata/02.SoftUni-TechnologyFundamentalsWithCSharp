@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb

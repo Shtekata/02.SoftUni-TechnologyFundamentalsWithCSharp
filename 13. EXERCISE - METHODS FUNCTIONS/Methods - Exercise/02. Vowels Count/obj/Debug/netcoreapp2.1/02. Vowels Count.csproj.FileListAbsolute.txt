@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp2.1\02. Vowels Count.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp2.1\02. Vowels Count.pdb

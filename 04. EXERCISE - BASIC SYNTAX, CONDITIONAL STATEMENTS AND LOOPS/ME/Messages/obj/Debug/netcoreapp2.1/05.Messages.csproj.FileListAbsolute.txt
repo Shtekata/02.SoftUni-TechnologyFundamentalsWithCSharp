@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\bin\Debug\netcoreapp2.1\05.Messages.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\bin\Debug\netcoreapp2.1\05.Messages.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\bin\Debug\netcoreapp2.1\05.Messages.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\bin\Debug\netcoreapp2.1\05.Messages.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\bin\Debug\netcoreapp2.1\05.Messages.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Messages\obj\Debug\netcoreapp2.1\05.Messages.pdb

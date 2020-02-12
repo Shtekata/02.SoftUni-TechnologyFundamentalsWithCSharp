@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp2.1\Pounds to Dollars.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp2.1\Pounds to Dollars.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp2.1\Pounds to Dollars.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp2.1\Pounds to Dollars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\bin\Debug\netcoreapp2.1\Pounds to Dollars.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Pounds to Dollars\obj\Debug\netcoreapp2.1\Pounds to Dollars.pdb

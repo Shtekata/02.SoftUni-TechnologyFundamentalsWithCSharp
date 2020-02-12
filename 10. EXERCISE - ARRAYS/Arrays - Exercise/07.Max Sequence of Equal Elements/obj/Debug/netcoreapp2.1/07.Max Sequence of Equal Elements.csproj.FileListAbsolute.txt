@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\07.Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07.Max Sequence of Equal Elements.pdb

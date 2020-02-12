@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\bin\Debug\netcoreapp2.1\12. SoftUni Bar Income.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\bin\Debug\netcoreapp2.1\12. SoftUni Bar Income.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\bin\Debug\netcoreapp2.1\12. SoftUni Bar Income.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\bin\Debug\netcoreapp2.1\12. SoftUni Bar Income.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\bin\Debug\netcoreapp2.1\12. SoftUni Bar Income.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\12. SoftUni Bar Income\obj\Debug\netcoreapp2.1\12. SoftUni Bar Income.pdb

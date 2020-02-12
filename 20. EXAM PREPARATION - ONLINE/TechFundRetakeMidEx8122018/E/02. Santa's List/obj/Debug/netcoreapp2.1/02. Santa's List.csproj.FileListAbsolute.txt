@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\bin\Debug\netcoreapp2.1\02. Santa's List.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\02. Santa's List\obj\Debug\netcoreapp2.1\02. Santa's List.pdb

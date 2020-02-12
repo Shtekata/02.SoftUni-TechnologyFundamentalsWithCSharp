@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp2.1\01. Messaging.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp2.1\01. Messaging.csprojAssemblyReference.cache

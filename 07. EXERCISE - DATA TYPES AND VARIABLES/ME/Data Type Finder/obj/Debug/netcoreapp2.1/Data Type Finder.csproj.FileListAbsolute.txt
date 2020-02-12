@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\bin\Debug\netcoreapp2.1\Data Type Finder.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Data Type Finder\obj\Debug\netcoreapp2.1\Data Type Finder.pdb

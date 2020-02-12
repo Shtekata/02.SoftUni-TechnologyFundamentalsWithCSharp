@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\bin\Debug\netcoreapp2.1\04.Reverse String.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\bin\Debug\netcoreapp2.1\04.Reverse String.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\bin\Debug\netcoreapp2.1\04.Reverse String.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\bin\Debug\netcoreapp2.1\04.Reverse String.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\bin\Debug\netcoreapp2.1\04.Reverse String.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\obj\Debug\netcoreapp2.1\04.Reverse String.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\obj\Debug\netcoreapp2.1\04.Reverse String.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\obj\Debug\netcoreapp2.1\04.Reverse String.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\obj\Debug\netcoreapp2.1\04.Reverse String.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Reverse String\obj\Debug\netcoreapp2.1\04.Reverse String.pdb

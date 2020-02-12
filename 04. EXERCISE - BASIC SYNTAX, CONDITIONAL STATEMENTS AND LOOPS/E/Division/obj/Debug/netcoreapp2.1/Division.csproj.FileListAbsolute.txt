@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\bin\Debug\netcoreapp2.1\Division.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\bin\Debug\netcoreapp2.1\Division.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\bin\Debug\netcoreapp2.1\Division.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\obj\Debug\netcoreapp2.1\Division.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\obj\Debug\netcoreapp2.1\Division.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Division\obj\Debug\netcoreapp2.1\Division.pdb

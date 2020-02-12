@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\bin\Debug\netcoreapp2.1\03.Floating Equality.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\bin\Debug\netcoreapp2.1\03.Floating Equality.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\bin\Debug\netcoreapp2.1\03.Floating Equality.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\bin\Debug\netcoreapp2.1\03.Floating Equality.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\bin\Debug\netcoreapp2.1\03.Floating Equality.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Floating Equality\obj\Debug\netcoreapp2.1\03.Floating Equality.pdb

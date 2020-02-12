@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\bin\Debug\netcoreapp2.1\02. Bread Factory.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\02. Bread Factory\obj\Debug\netcoreapp2.1\02. Bread Factory.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\bin\Debug\netcoreapp2.1\04. Ceasar Cipher.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\bin\Debug\netcoreapp2.1\04. Ceasar Cipher.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\bin\Debug\netcoreapp2.1\04. Ceasar Cipher.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\bin\Debug\netcoreapp2.1\04. Ceasar Cipher.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\bin\Debug\netcoreapp2.1\04. Ceasar Cipher.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\obj\Debug\netcoreapp2.1\04. Ceasar Cipher.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\obj\Debug\netcoreapp2.1\04. Ceasar Cipher.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\obj\Debug\netcoreapp2.1\04. Ceasar Cipher.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\obj\Debug\netcoreapp2.1\04. Ceasar Cipher.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\28. EXERCISE - STRING AND TEXT PROCESSING\28. T.P.A.R.E-EXERCISE\04. Ceasar Cipher\obj\Debug\netcoreapp2.1\04. Ceasar Cipher.pdb

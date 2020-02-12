@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\bin\Debug\netcoreapp2.1\From Left to The Right.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\bin\Debug\netcoreapp2.1\From Left to The Right.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\bin\Debug\netcoreapp2.1\From Left to The Right.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\bin\Debug\netcoreapp2.1\From Left to The Right.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\bin\Debug\netcoreapp2.1\From Left to The Right.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\From Left to The Right\obj\Debug\netcoreapp2.1\From Left to The Right.pdb

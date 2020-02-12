@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\bin\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\01.Convert Meters to Kilometers\obj\Debug\netcoreapp2.1\01.Convert Meters to Kilometers.pdb

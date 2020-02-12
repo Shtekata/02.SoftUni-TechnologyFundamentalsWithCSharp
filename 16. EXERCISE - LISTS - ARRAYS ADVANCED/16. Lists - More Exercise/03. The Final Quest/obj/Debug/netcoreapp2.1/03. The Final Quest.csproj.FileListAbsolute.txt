@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.pdb

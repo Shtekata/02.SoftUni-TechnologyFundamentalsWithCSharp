@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.pdb

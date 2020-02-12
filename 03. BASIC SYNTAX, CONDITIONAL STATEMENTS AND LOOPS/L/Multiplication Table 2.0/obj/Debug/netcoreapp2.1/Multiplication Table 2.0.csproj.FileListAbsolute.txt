@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\bin\Debug\netcoreapp2.1\Multiplication Table 2.0.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\bin\Debug\netcoreapp2.1\Multiplication Table 2.0.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\bin\Debug\netcoreapp2.1\Multiplication Table 2.0.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\bin\Debug\netcoreapp2.1\Multiplication Table 2.0.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\bin\Debug\netcoreapp2.1\Multiplication Table 2.0.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\obj\Debug\netcoreapp2.1\Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\obj\Debug\netcoreapp2.1\Multiplication Table 2.0.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\obj\Debug\netcoreapp2.1\Multiplication Table 2.0.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\obj\Debug\netcoreapp2.1\Multiplication Table 2.0.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Multiplication Table 2.0\obj\Debug\netcoreapp2.1\Multiplication Table 2.0.pdb

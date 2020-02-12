@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\bin\Debug\netcoreapp2.1\Math operations.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\bin\Debug\netcoreapp2.1\Math operations.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\bin\Debug\netcoreapp2.1\Math operations.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\bin\Debug\netcoreapp2.1\Math operations.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\bin\Debug\netcoreapp2.1\Math operations.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Math operations\obj\Debug\netcoreapp2.1\Math operations.pdb

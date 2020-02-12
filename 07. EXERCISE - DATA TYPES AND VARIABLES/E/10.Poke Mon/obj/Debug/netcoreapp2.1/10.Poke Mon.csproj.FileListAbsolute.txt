@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\bin\Debug\netcoreapp2.1\10.Poke Mon.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\bin\Debug\netcoreapp2.1\10.Poke Mon.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\bin\Debug\netcoreapp2.1\10.Poke Mon.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\bin\Debug\netcoreapp2.1\10.Poke Mon.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\bin\Debug\netcoreapp2.1\10.Poke Mon.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\10.Poke Mon\obj\Debug\netcoreapp2.1\10.Poke Mon.pdb

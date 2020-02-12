@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\bin\Debug\netcoreapp2.1\03. House Party.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\bin\Debug\netcoreapp2.1\03. House Party.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\bin\Debug\netcoreapp2.1\03. House Party.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\House Party\obj\Debug\netcoreapp2.1\03. House Party.pdb

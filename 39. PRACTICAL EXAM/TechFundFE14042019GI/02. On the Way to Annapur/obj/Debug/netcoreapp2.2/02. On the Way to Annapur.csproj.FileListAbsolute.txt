@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\bin\Debug\netcoreapp2.2\02. On the Way to Annapur.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\bin\Debug\netcoreapp2.2\02. On the Way to Annapur.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\bin\Debug\netcoreapp2.2\02. On the Way to Annapur.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\bin\Debug\netcoreapp2.2\02. On the Way to Annapur.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\bin\Debug\netcoreapp2.2\02. On the Way to Annapur.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\02. On the Way to Annapur\obj\Debug\netcoreapp2.2\02. On the Way to Annapur.pdb

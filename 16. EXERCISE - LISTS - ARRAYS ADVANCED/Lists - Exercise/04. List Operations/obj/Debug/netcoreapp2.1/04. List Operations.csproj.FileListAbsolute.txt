@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.pdb

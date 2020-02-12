@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\bin\Debug\netcoreapp2.1\01. Cristmas Spirit.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\bin\Debug\netcoreapp2.1\01. Cristmas Spirit.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\bin\Debug\netcoreapp2.1\01. Cristmas Spirit.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\bin\Debug\netcoreapp2.1\01. Cristmas Spirit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\bin\Debug\netcoreapp2.1\01. Cristmas Spirit.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\01. Cristmas Spirit\obj\Debug\netcoreapp2.1\01. Cristmas Spirit.pdb

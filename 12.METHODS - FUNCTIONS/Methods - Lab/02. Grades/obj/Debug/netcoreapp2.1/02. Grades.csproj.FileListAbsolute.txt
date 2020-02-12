@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.pdb

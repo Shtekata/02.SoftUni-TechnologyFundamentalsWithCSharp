@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp2.1\01. Smallest of Three Numbers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp2.1\01. Smallest of Three Numbers.pdb

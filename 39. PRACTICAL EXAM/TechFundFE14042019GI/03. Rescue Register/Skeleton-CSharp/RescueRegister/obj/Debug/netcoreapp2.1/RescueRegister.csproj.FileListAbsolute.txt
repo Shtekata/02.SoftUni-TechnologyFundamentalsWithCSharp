@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.pdb

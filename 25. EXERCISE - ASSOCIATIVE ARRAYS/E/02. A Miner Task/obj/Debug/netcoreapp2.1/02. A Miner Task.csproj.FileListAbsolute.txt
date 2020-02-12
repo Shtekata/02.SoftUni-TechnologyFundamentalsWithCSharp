@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\bin\Debug\netcoreapp2.1\02. A Miner Task.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\02. A Miner Task\obj\Debug\netcoreapp2.1\02. A Miner Task.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\bin\Debug\netcoreapp2.1\fdsaf.deps.json
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\bin\Debug\netcoreapp2.1\fdsaf.runtimeconfig.json
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\bin\Debug\netcoreapp2.1\fdsaf.runtimeconfig.dev.json
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\bin\Debug\netcoreapp2.1\fdsaf.dll
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\bin\Debug\netcoreapp2.1\fdsaf.pdb
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\obj\Debug\netcoreapp2.1\fdsaf.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\obj\Debug\netcoreapp2.1\fdsaf.AssemblyInfoInputs.cache
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\obj\Debug\netcoreapp2.1\fdsaf.AssemblyInfo.cs
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\obj\Debug\netcoreapp2.1\fdsaf.dll
+D:\OneDrive\Projects-and-Courses-C-Sharp\02. SoftUni - Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\fdsaf\obj\Debug\netcoreapp2.1\fdsaf.pdb

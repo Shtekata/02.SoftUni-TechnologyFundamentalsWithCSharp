@@ -1,0 +1,33 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\TFFE16122018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\Technology Fundamentals Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\bin\Debug\netcoreapp2.2\01. Concert.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\01. Concert\obj\Debug\netcoreapp2.2\01. Concert.pdb

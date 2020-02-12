@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\bin\Debug\netcoreapp2.1\09.Chars to String.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\bin\Debug\netcoreapp2.1\09.Chars to String.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\bin\Debug\netcoreapp2.1\09.Chars to String.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\bin\Debug\netcoreapp2.1\09.Chars to String.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\bin\Debug\netcoreapp2.1\09.Chars to String.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\obj\Debug\netcoreapp2.1\09.Chars to String.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\obj\Debug\netcoreapp2.1\09.Chars to String.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\obj\Debug\netcoreapp2.1\09.Chars to String.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\obj\Debug\netcoreapp2.1\09.Chars to String.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\09.Chars to String\obj\Debug\netcoreapp2.1\09.Chars to String.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.pdb

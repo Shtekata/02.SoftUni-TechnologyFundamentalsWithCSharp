@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\bin\Debug\netcoreapp2.1\04.Array Rotation.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\bin\Debug\netcoreapp2.1\04.Array Rotation.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\bin\Debug\netcoreapp2.1\04.Array Rotation.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\bin\Debug\netcoreapp2.1\04.Array Rotation.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\bin\Debug\netcoreapp2.1\04.Array Rotation.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\04.Array Rotation\obj\Debug\netcoreapp2.1\04.Array Rotation.csprojAssemblyReference.cache

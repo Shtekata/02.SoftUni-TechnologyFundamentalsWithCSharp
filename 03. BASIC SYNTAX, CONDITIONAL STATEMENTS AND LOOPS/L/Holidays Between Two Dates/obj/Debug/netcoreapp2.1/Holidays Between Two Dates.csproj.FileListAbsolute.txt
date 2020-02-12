@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.1\Holidays Between Two Dates.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.1\Holidays Between Two Dates.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.1\Holidays Between Two Dates.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.1\Holidays Between Two Dates.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp2.1\Holidays Between Two Dates.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp2.1\Holidays Between Two Dates.pdb

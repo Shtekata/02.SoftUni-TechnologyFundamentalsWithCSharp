@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\bin\Debug\netcoreapp2.1\Theatre Promotion.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\bin\Debug\netcoreapp2.1\Theatre Promotion.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\bin\Debug\netcoreapp2.1\Theatre Promotion.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\bin\Debug\netcoreapp2.1\Theatre Promotion.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\bin\Debug\netcoreapp2.1\Theatre Promotion.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Theatre Promotion\obj\Debug\netcoreapp2.1\Theatre Promotion.pdb

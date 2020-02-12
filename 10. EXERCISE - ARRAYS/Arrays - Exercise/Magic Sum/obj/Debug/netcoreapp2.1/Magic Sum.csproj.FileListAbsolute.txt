@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\bin\Debug\netcoreapp2.1\Magic Sum.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\Magic Sum\obj\Debug\netcoreapp2.1\Magic Sum.pdb

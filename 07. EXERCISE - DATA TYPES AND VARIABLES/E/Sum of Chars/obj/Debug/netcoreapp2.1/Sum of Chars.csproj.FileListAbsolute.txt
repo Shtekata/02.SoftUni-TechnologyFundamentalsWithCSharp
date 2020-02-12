@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\bin\Debug\netcoreapp2.1\Sum of Chars.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\bin\Debug\netcoreapp2.1\Sum of Chars.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\bin\Debug\netcoreapp2.1\Sum of Chars.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\bin\Debug\netcoreapp2.1\Sum of Chars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\bin\Debug\netcoreapp2.1\Sum of Chars.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\obj\Debug\netcoreapp2.1\Sum of Chars.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\obj\Debug\netcoreapp2.1\Sum of Chars.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\obj\Debug\netcoreapp2.1\Sum of Chars.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\obj\Debug\netcoreapp2.1\Sum of Chars.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Sum of Chars\obj\Debug\netcoreapp2.1\Sum of Chars.pdb

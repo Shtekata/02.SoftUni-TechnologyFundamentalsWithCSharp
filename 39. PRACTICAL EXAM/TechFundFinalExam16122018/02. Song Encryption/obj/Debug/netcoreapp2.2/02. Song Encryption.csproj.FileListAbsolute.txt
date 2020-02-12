@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\bin\Debug\netcoreapp2.2\02. Song Encryption.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\bin\Debug\netcoreapp2.2\02. Song Encryption.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\bin\Debug\netcoreapp2.2\02. Song Encryption.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\bin\Debug\netcoreapp2.2\02. Song Encryption.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\bin\Debug\netcoreapp2.2\02. Song Encryption.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFund. Final Exam - 16.12.2018\02. Song Encryption\obj\Debug\netcoreapp2.2\02. Song Encryption.csprojAssemblyReference.cache

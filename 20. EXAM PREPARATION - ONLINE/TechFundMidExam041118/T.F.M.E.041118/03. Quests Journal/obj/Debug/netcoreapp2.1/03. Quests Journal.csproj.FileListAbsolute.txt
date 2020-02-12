@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\bin\Debug\netcoreapp2.1\03. Quests Journal.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\03. Quests Journal\obj\Debug\netcoreapp2.1\03. Quests Journal.pdb

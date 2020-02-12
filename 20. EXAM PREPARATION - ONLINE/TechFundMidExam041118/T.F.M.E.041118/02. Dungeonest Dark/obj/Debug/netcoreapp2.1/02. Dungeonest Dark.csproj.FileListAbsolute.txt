@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\bin\Debug\netcoreapp2.1\02. Dungeonest Dark.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\bin\Debug\netcoreapp2.1\02. Dungeonest Dark.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\bin\Debug\netcoreapp2.1\02. Dungeonest Dark.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\bin\Debug\netcoreapp2.1\02. Dungeonest Dark.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\bin\Debug\netcoreapp2.1\02. Dungeonest Dark.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\02. Dungeonest Dark\obj\Debug\netcoreapp2.1\02. Dungeonest Dark.pdb

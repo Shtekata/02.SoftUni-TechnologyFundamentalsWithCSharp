@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb

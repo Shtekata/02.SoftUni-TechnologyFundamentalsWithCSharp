@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\bin\Debug\netcoreapp2.1\01. Party Profit.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\bin\Debug\netcoreapp2.1\01. Party Profit.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\bin\Debug\netcoreapp2.1\01. Party Profit.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\bin\Debug\netcoreapp2.1\01. Party Profit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\bin\Debug\netcoreapp2.1\01. Party Profit.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\Tech. Fund. Mid Exam - 4 November 2018\T.F.M.E.041118\01. Party Profit\obj\Debug\netcoreapp2.1\01. Party Profit.pdb

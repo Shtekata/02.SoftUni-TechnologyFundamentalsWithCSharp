@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\bin\Debug\netcoreapp2.1\08. Match Phone Number.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\bin\Debug\netcoreapp2.1\08. Match Phone Number.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\bin\Debug\netcoreapp2.1\08. Match Phone Number.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\bin\Debug\netcoreapp2.1\08. Match Phone Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\bin\Debug\netcoreapp2.1\08. Match Phone Number.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\obj\Debug\netcoreapp2.1\08. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\obj\Debug\netcoreapp2.1\08. Match Phone Number.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\obj\Debug\netcoreapp2.1\08. Match Phone Number.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\obj\Debug\netcoreapp2.1\08. Match Phone Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\08. Match Phone Number\obj\Debug\netcoreapp2.1\08. Match Phone Number.pdb

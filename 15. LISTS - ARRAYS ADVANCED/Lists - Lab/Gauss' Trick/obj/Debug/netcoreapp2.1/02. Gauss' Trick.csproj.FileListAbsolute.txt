@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.pdb

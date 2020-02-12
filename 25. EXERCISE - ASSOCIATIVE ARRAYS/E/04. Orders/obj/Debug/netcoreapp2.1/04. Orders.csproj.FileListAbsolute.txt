@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\bin\Debug\netcoreapp2.1\04. Orders.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\25. EXERCISE - ASSOCIATIVE ARRAYS\25. ASSOCIATIVE ARRAYS - EXERC\04. Orders\obj\Debug\netcoreapp2.1\04. Orders.pdb

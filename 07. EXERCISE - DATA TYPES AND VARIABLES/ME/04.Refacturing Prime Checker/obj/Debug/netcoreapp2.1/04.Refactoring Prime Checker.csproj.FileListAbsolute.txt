@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\bin\Debug\netcoreapp2.1\04.Refactoring Prime Checker.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\bin\Debug\netcoreapp2.1\04.Refactoring Prime Checker.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\bin\Debug\netcoreapp2.1\04.Refactoring Prime Checker.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\bin\Debug\netcoreapp2.1\04.Refactoring Prime Checker.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\bin\Debug\netcoreapp2.1\04.Refactoring Prime Checker.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\04.Refacturing Prime Checker\obj\Debug\netcoreapp2.1\04.Refactoring Prime Checker.pdb

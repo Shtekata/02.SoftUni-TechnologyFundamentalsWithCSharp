@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\15. LISTS - ARRAYS ADVANCED\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.pdb

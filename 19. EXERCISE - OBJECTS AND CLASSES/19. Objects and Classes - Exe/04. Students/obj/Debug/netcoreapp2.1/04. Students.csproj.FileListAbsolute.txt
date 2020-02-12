@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\bin\Debug\netcoreapp2.1\04. Students.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\bin\Debug\netcoreapp2.1\04. Students.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\bin\Debug\netcoreapp2.1\04. Students.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\04. Students\obj\Debug\netcoreapp2.1\04. Students.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\obj\Debug\netcoreapp2.1\Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\obj\Debug\netcoreapp2.1\Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\obj\Debug\netcoreapp2.1\Sum of Odd Numbers.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\bin\Debug\netcoreapp2.1\Sum of Odd Numbers.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\bin\Debug\netcoreapp2.1\Sum of Odd Numbers.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\bin\Debug\netcoreapp2.1\Sum of Odd Numbers.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\bin\Debug\netcoreapp2.1\Sum of Odd Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\bin\Debug\netcoreapp2.1\Sum of Odd Numbers.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\obj\Debug\netcoreapp2.1\Sum of Odd Numbers.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basic Syntax - Lab\Intro and Basics Syntax - Lab\Sum of Odd Numbers\obj\Debug\netcoreapp2.1\Sum of Odd Numbers.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\Intro and Basics Syntax\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.pdb

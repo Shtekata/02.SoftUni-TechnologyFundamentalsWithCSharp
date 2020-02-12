@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\bin\Debug\netcoreapp2.1\08.Beer Kegs.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\bin\Debug\netcoreapp2.1\08.Beer Kegs.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\bin\Debug\netcoreapp2.1\08.Beer Kegs.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\bin\Debug\netcoreapp2.1\08.Beer Kegs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\bin\Debug\netcoreapp2.1\08.Beer Kegs.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\obj\Debug\netcoreapp2.1\08.Beer Kegs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\obj\Debug\netcoreapp2.1\08.Beer Kegs.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\obj\Debug\netcoreapp2.1\08.Beer Kegs.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\obj\Debug\netcoreapp2.1\08.Beer Kegs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\08.Beer Kegs\obj\Debug\netcoreapp2.1\08.Beer Kegs.pdb

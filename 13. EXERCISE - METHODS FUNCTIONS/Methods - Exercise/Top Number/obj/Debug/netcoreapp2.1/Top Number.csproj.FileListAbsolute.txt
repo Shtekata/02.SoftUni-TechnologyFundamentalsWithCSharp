@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.pdb

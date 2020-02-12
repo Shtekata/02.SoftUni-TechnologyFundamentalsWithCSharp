@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\bin\Debug\netcoreapp2.1\12. Array Manipulator 2.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\bin\Debug\netcoreapp2.1\12. Array Manipulator 2.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\bin\Debug\netcoreapp2.1\12. Array Manipulator 2.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\bin\Debug\netcoreapp2.1\12. Array Manipulator 2.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\bin\Debug\netcoreapp2.1\12. Array Manipulator 2.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\12. Array Manipulator 2\obj\Debug\netcoreapp2.1\12. Array Manipulator 2.pdb

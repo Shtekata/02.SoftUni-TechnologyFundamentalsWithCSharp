@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Projects\\02. SoftUni - Tehnology Fundamentals with C#\\39. PRACTICAL EXAM\\Skeleton-CSharp\\RescueRegister\\RescueRegister.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Projects\\02. SoftUni - Tehnology Fundamentals with C#\\39. PRACTICAL EXAM\\Skeleton-CSharp\\RescueRegister\\RescueRegister.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Projects\\02. SoftUni - Tehnology Fundamentals with C#\\39. PRACTICAL EXAM\\Skeleton-CSharp\\RescueRegister\\RescueRegister.csproj",
+        "projectName": "RescueRegister",
+        "projectPath": "D:\\OneDrive\\Projects\\02. SoftUni - Tehnology Fundamentals with C#\\39. PRACTICAL EXAM\\Skeleton-CSharp\\RescueRegister\\RescueRegister.csproj",
+        "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Projects\\02. SoftUni - Tehnology Fundamentals with C#\\39. PRACTICAL EXAM\\Skeleton-CSharp\\RescueRegister\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\geshe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

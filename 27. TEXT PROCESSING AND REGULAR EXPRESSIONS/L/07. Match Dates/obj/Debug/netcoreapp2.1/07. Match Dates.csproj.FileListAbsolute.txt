@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\bin\Debug\netcoreapp2.1\07. Match Dates.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\bin\Debug\netcoreapp2.1\07. Match Dates.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\bin\Debug\netcoreapp2.1\07. Match Dates.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\bin\Debug\netcoreapp2.1\07. Match Dates.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\bin\Debug\netcoreapp2.1\07. Match Dates.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\07. Match Dates\obj\Debug\netcoreapp2.1\07. Match Dates.pdb

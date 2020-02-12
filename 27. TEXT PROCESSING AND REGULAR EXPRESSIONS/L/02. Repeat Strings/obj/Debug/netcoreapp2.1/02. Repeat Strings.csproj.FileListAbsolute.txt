@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.pdb

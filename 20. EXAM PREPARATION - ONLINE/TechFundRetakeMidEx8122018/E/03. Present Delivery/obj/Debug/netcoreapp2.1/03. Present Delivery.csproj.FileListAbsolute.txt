@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\bin\Debug\netcoreapp2.1\03. Present Delivery.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\20. EXAM PREPARATION - ONLINE\TechFundRetakeMidExam18122018\T.F.R.M.E.18122018\03. Present Delivery\obj\Debug\netcoreapp2.1\03. Present Delivery.pdb

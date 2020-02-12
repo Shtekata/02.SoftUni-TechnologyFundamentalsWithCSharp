@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\bin\Debug\netcoreapp2.1\10.Lower or Upper.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\bin\Debug\netcoreapp2.1\10.Lower or Upper.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\bin\Debug\netcoreapp2.1\10.Lower or Upper.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\bin\Debug\netcoreapp2.1\10.Lower or Upper.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\bin\Debug\netcoreapp2.1\10.Lower or Upper.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\10.Lower or Upper\obj\Debug\netcoreapp2.1\10.Lower or Upper.pdb

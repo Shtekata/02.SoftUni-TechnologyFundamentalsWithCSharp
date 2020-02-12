@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\13. EXERCISE - METHODS FUNCTIONS\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.pdb

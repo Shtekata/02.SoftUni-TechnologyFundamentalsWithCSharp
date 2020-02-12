@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\bin\Debug\netcoreapp2.1\Snowballs.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\Snowballs\obj\Debug\netcoreapp2.1\Snowballs.pdb

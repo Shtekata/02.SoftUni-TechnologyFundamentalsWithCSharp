@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\bin\Debug\netcoreapp2.1\Orders.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\Orders\obj\Debug\netcoreapp2.1\Orders.pdb

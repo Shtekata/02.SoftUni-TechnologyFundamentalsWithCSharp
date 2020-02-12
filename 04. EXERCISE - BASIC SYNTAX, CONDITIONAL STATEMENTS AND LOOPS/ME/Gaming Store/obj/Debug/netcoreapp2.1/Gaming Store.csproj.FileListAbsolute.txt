@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\4.EXERCISE - BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\Intro and Basic S-ME\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.pdb

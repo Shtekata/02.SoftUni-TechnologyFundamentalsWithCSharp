@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\netcoreapp2.1\09. Pokemon Don't Go.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\netcoreapp2.1\09. Pokemon Don't Go.pdb

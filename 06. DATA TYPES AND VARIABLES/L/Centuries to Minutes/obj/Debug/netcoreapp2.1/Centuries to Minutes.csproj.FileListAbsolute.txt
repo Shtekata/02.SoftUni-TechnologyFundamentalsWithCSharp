@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\bin\Debug\netcoreapp2.1\Centuries to Minutes.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\6.DATA TYPES AND VARIABLES\Date Types and Variables - Lab\Centuries to Minutes\obj\Debug\netcoreapp2.1\Centuries to Minutes.pdb

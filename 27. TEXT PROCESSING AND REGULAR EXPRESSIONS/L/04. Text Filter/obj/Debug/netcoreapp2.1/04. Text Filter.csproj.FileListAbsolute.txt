@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\10.EXERCISE - ARRAYS\Arrays - Exercise\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csprojAssemblyReference.cache

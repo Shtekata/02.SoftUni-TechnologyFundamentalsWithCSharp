@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\bin\Debug\netcoreapp2.1\06. Vehicle Catalogue.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\19. EXERCISE - OBJECTS AND CLASSES\19. Objects and Classes - Exe\06. Vehicle Catalogue\obj\Debug\netcoreapp2.1\06. Vehicle Catalogue.pdb

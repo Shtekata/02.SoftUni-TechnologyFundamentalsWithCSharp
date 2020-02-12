@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\bin\Debug\netcoreapp2.1\05.Decrypting Message.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\bin\Debug\netcoreapp2.1\05.Decrypting Message.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\bin\Debug\netcoreapp2.1\05.Decrypting Message.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\bin\Debug\netcoreapp2.1\05.Decrypting Message.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\bin\Debug\netcoreapp2.1\05.Decrypting Message.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\obj\Debug\netcoreapp2.1\05.Decrypting Message.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\obj\Debug\netcoreapp2.1\05.Decrypting Message.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\obj\Debug\netcoreapp2.1\05.Decrypting Message.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\obj\Debug\netcoreapp2.1\05.Decrypting Message.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables-ME\Decrypting Message\obj\Debug\netcoreapp2.1\05.Decrypting Message.pdb

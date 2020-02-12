@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\bin\Debug\netcoreapp2.1\06.Triples of Latin Letters.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\bin\Debug\netcoreapp2.1\06.Triples of Latin Letters.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\bin\Debug\netcoreapp2.1\06.Triples of Latin Letters.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\bin\Debug\netcoreapp2.1\06.Triples of Latin Letters.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\bin\Debug\netcoreapp2.1\06.Triples of Latin Letters.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\obj\Debug\netcoreapp2.1\06.Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\obj\Debug\netcoreapp2.1\06.Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\obj\Debug\netcoreapp2.1\06.Triples of Latin Letters.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\obj\Debug\netcoreapp2.1\06.Triples of Latin Letters.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\7.EXERCISE - DATA TYPES AND VARIABLES\Data Types and Variables - E\06.Triples of Latin Letters\obj\Debug\netcoreapp2.1\06.Triples of Latin Letters.pdb

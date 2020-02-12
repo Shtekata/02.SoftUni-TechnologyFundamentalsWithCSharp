@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\bin\Debug\netcoreapp2.2\02. Activation Keys.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundRFinalExam20122018\02. Activation Keys\obj\Debug\netcoreapp2.2\02. Activation Keys.pdb

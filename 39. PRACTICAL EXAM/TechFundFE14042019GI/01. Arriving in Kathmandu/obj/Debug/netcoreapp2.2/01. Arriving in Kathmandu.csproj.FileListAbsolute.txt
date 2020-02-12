@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.deps.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.runtimeconfig.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.runtimeconfig.dev.json
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\bin\Debug\netcoreapp2.2\01. Arriving in Kathmandu.pdb
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.csprojAssemblyReference.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.AssemblyInfo.cs
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.dll
+D:\OneDrive\Projects\02. SoftUni - Tehnology Fundamentals with C#\39. PRACTICAL EXAM\TechFundFE14042019GI\01. Arriving in Kathmandu\obj\Debug\netcoreapp2.2\01. Arriving in Kathmandu.pdb

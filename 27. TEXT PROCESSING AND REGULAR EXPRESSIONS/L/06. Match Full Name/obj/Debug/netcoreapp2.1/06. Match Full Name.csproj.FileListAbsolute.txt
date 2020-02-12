@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\bin\Debug\netcoreapp2.1\06. Match Full Name.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\bin\Debug\netcoreapp2.1\06. Match Full Name.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\bin\Debug\netcoreapp2.1\06. Match Full Name.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\bin\Debug\netcoreapp2.1\06. Match Full Name.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\bin\Debug\netcoreapp2.1\06. Match Full Name.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\06. Match Full Name\obj\Debug\netcoreapp2.1\06. Match Full Name.pdb

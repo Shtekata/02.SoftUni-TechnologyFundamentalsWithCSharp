@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\12.METHODS - FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.pdb

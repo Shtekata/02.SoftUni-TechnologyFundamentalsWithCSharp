@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\27. TEXT PROCESSING AND REGULAR EXPRESSIONS\27. T.P.A.R.E-Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.pdb

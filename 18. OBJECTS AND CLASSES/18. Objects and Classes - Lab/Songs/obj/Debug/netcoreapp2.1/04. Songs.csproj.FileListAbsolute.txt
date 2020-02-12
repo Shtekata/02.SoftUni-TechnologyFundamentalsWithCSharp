@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\04. Songs.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\04. Songs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\bin\Debug\netcoreapp2.1\04. Songs.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\18. OBJECTS AND CLASSES\18. Objects and Classes - Lab\Songs\obj\Debug\netcoreapp2.1\04. Songs.pdb

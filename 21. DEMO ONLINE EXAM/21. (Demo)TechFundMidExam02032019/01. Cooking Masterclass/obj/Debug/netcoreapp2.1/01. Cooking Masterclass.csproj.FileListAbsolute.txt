@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\bin\Debug\netcoreapp2.1\01. Cooking Masterclass.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\bin\Debug\netcoreapp2.1\01. Cooking Masterclass.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\bin\Debug\netcoreapp2.1\01. Cooking Masterclass.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\bin\Debug\netcoreapp2.1\01. Cooking Masterclass.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\bin\Debug\netcoreapp2.1\01. Cooking Masterclass.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\obj\Debug\netcoreapp2.1\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\obj\Debug\netcoreapp2.1\01. Cooking Masterclass.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\obj\Debug\netcoreapp2.1\01. Cooking Masterclass.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\obj\Debug\netcoreapp2.1\01. Cooking Masterclass.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\21. DEMO ONLINE EXAM\21. (Demo)TechFundMidExam02032019\01. Cooking Masterclass\obj\Debug\netcoreapp2.1\01. Cooking Masterclass.pdb

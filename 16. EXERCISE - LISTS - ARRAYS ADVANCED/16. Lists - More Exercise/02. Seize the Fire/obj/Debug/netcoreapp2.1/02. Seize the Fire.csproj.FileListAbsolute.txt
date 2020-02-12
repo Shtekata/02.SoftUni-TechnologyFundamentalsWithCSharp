@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfo.cs
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.deps.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.dev.json
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.pdb
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.dll
+D:\OneDrive\Projects\Tehnology Fundamentals with C#\16. EXERCISE - LISTS - ARRAYS ADVANCED\16. Lists - More Exercise\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.pdb
